@@ -1,0 +1,2 @@
+- https://www.google.com/search?q=zig+and+odin+language+creators+together
+- https://www.google.com/search?q=zig+and+odin+language+creators+meet
