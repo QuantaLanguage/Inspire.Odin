@@ -3,3 +3,5 @@
 Spotify: https://open.spotify.com/show/7tExkDJcI6vvmpCguX8Ygd
 Apple Podcasts: https://podcasts.apple.com/us/podcast/game-engineering-podcast/id1683109481
 Youtube: https://www.youtube.com/channel/UC9J9u3apteD0EuFjzRpt71w
+
+[#326 Creator Of Odin Programming Language | GingerBill](https://youtu.be/djnWcCFmny8)
